@@ -209,13 +209,13 @@ Both losses converge stably by epoch 30. Generated samples at epoch 100 show div
 
 ## References
 
-[1] I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning. Cambridge, MA: MIT Press, 2016.
-[2] S. Hochreiter and J. Schmidhuber, “Long Short-Term Memory,” Neural Computation, vol. 9, no. 8, pp. 1735-1780, 1997.
-[3] I. Goodfellow et al., “Generative Adversarial Nets,” in Proc. NeurIPS, 2014, pp. 2672-2680.
-[4] K. He, X. Zhang, S. Ren, and J. Sun, “Deep Residual Learning for Image Recognition,” in Proc. CVPR, 2016, pp. 770-778.
-[5] A. G. Howard et al., “MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,” arXiv:1704.04861, 2017.
-[6] H. Xiao, K. Rasul, and R. Vollgraf, “Fashion-MNIST: A Novel Image Dataset for Benchmarking Machine Learning Algorithms,” arXiv:1708.07747, 2017.
-[7] J. Chung, C. Gulcehre, K. Cho, and Y. Bengio, “Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling,” arXiv:1412.3555, 2014.
-[8] PyTorch Documentation, https://pytorch.org/docs, accessed 2025.
-[9] torchvision Documentation, https://pytorch.org/vision/stable, accessed 2025.
-[10] J. Brownlee, “International Airline Passengers Dataset,” https://github.com/jbrownlee/Datasets, accessed 2025
+1. I. Goodfellow, Y. Bengio, and A. Courville, Deep Learning. Cambridge, MA: MIT Press, 2016.
+2. S. Hochreiter and J. Schmidhuber, “Long Short-Term Memory,” Neural Computation, vol. 9, no. 8, pp. 1735-1780, 1997.
+3. I. Goodfellow et al., “Generative Adversarial Nets,” in Proc. NeurIPS, 2014, pp. 2672-2680.
+4. He, X. Zhang, S. Ren, and J. Sun, “Deep Residual Learning for Image Recognition,” in Proc. CVPR, 2016, pp. 770-778.
+5. A. G. Howard et al., “MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,” arXiv:1704.04861, 2017.
+6. H. Xiao, K. Rasul, and R. Vollgraf, “Fashion-MNIST: A Novel Image Dataset for Benchmarking Machine Learning Algorithms,” arXiv:1708.07747, 2017.
+7. J. Chung, C. Gulcehre, K. Cho, and Y. Bengio, “Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling,” arXiv:1412.3555, 2014.
+8. PyTorch Documentation, https://pytorch.org/docs, accessed 2025.
+9. torchvision Documentation, https://pytorch.org/vision/stable, accessed 2025.
+10. J. Brownlee, “International Airline Passengers Dataset,” https://github.com/jbrownlee/Datasets, accessed 2025
