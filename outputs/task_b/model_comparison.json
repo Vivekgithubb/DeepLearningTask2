@@ -1,0 +1,23 @@
+{
+  "RNN": {
+    "rmse_original_scale": 60.71,
+    "rmse_normalized": 0.117201,
+    "avg_epoch_time_sec": 0.019,
+    "final_train_loss": 0.001229,
+    "final_val_loss": 0.00441
+  },
+  "LSTM": {
+    "rmse_original_scale": 79.18,
+    "rmse_normalized": 0.152848,
+    "avg_epoch_time_sec": 0.014,
+    "final_train_loss": 0.003018,
+    "final_val_loss": 0.01077
+  },
+  "GRU": {
+    "rmse_original_scale": 43.13,
+    "rmse_normalized": 0.083257,
+    "avg_epoch_time_sec": 0.016,
+    "final_train_loss": 0.001479,
+    "final_val_loss": 0.003531
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Simple CNN": {
+    "test_accuracy": 0.9233,
+    "total_parameters": 390858,
+    "trainable_params": 390858,
+    "avg_epoch_time_sec": 15.0
+  },
+  "MobileNet": {
+    "test_accuracy": 0.8186,
+    "total_parameters": 2236682,
+    "trainable_params": 12810,
+    "avg_epoch_time_sec": 33.3
+  }
+}
